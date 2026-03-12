@@ -1,0 +1,25 @@
+﻿Category,Component,Specs,Qty,Est. Cost (INR)
+**Power**,LiPo Battery,7.4V 2200mAh 25C,1,800
+,BMS 2S,10A with balance,1,150
+,Buck Converter,LM2596 5V/3A,2,200
+,LDO Regulator,AMS1117-3.3,1,50
+,Power Switch,XT60 with anti-spark,1,100
+,Fuse Holder,10A blade,1,50
+**Computing**,Raspberry Pi 4B,4GB RAM,1,"4,500"
+,Arduino Nano,ATmega328P,1,400
+,ESP8266 Module,NodeMCU,1,350
+**Motors**,N20 Motor + Encoder,6V 300RPM,4,"1,200"
+,Motor Driver,L298N dual H-bridge,1,250
+,Wheels,65mm rubber,4,200
+**Sensors**,Pi Camera v2,8MP wide-angle,1,"1,500"
+,IR Sensor Module,TCRT5000 analog,5,250
+,Ultrasonic Sensor,HC-SR04,2,200
+,IMU,MPU6050,1,150
+,Current Sensor,INA219 I2C,1,200
+**Connectivity**,USB Cable,"A to Micro, 1m",2,200
+,Jumper Wires,"M-M, M-F, F-F",100,300
+,Breadboard/PCB,Half-size + custom,2,400
+**Misc**,Chassis,Acrylic/3D printed,1,500
+,Standoffs,M3 brass,20,100
+,Heat Shrink,Assorted sizes,1 set,100
+,**TOTAL**,,,"**~11,100**"
